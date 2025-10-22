@@ -1,4 +1,4 @@
-![alt text](image.png)
+<img src="image.png" width="100" height="100"/>
 # Letix
 
 ---
